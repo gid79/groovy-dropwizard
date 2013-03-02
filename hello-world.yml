@@ -1,0 +1,4 @@
+
+logging:
+  loggers:
+    "com.sun": DEBUG
